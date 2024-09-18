@@ -1,0 +1,26 @@
+html {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    background-color: rgb(207, 99, 99);
+    color: white;
+    padding: 16px;
+}
+
+h3 {
+    color: brown;
+}
+
+.recipe-box {
+    background-color: rgb(230, 143, 143);
+    padding: 12px;
+    margin-right: auto;
+    width: 30%;
+}
+
+.recipe-box a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
